@@ -35,7 +35,7 @@ namespace Lect22_LA_W3
             }    
             else
             {
-                MessageBox.Show("Wrong Username Password");
+                MessageBox.Show("Wrong ");
             }
         }
     }
